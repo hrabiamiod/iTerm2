@@ -26,6 +26,10 @@ Appearance > General > Theme: Minimal
 (curl -Ls https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/main/Snazzy.itermcolors > /tmp/Snazzy.itermcolors && open /tmp/Snazzy.itermcolors)
 ```
 
+Most important: 
+```
+export ZPLUG_HOME=/opt/homebrew/opt/zplug
+```
 
 TBC
 
